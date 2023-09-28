@@ -16,6 +16,7 @@
     "react-icons": "^4.11.0"
   },
   "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.4",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
